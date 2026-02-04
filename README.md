@@ -354,4 +354,11 @@ For questions or suggestions, please open an issue or contact me.
 
 **Built with ❤️ by realarpan**
 
+## Performance Optimizations
+
+- Implemented query caching for frequently accessed data
+- Added database indexing on critical fields
+- Optimized Socket.io event handling for reduced latency
+- Implemented Redis caching for session management
+
 *"Delivering food, not just orders"*
